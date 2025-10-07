@@ -1,0 +1,1 @@
+Link zu den Daten: https://www.kaggle.com/datasets/jockeroika/human-bone-fractures-image-dataset/data
