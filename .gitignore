@@ -1,2 +1,31 @@
-__pycache__
-.env
+# =============================
+# Projekt: Knochenfraktur YOLOv8
+# =============================
+
+# --- Python Cache ---
+__pycache__/
+
+# --- Virtual Environments ---
+.venv/
+.env/
+
+
+# --- Logs & Temp ---
+*.log
+*.tmp
+*.temp
+
+
+# --- YOLO / Training Runs ---
+runs/
+
+# --- CSV/Export Ergebnisse ---
+results/*.csv
+metrics/*.csv
+
+
+
+
+
+
+
