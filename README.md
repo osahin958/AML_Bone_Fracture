@@ -1,4 +1,4 @@
-# Knochenfraktur-Erkennung
+# Knochenbruch-Erkennung
 
 Workflow zur Ausführung mit originalem und augmentiertem Datensatz.
 
@@ -7,7 +7,7 @@ Workflow zur Ausführung mit originalem und augmentiertem Datensatz.
 ## 1. Setup
 
 ```
-Installiere Python 3.8 oder neuer.
+Installiere Python 3.11 oder neuer.
 - Empfehlung: Verwende eine virtuelle Umgebung 
 - Benötigte Pakete installieren:
 
@@ -95,4 +95,3 @@ In DataAugmentation.ipynb 2. Code Feld ausführen.
 
 ---
 
-Viel Erfolg!
