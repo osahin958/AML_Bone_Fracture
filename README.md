@@ -94,4 +94,3 @@ Ziel: Mehr korrekte Treffer für seltene Klassen, weniger False Negatives.
 In DataAugmentation.ipynb 2. Code Feld ausführen.
 
 ---
-
